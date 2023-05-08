@@ -1,5 +1,6 @@
-# lucazani.com Source Code (UPDATED)
+# lucazani.com Source Code
 
+INFO: In case the domain lucazani.com stops working the same website page will be available at lucazanipage.web.app
 This page collect the source code of the website lucazani.com currently hosted using GitHub Pages
 
 # I found an issue and i want to help fix it
