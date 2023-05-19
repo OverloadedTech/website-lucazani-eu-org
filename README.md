@@ -23,5 +23,3 @@ Changelog:
 - Added Icons to Button
 - Added License footer and License Statement Page
 - Generic Little Fixing
-
-# Soon the full website will be rebuilt from zero using a custom Website Engine
