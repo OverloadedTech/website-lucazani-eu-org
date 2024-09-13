@@ -1,5 +1,8 @@
 # lucazani.com Source Code
 
+# Info
+The website will soon be remade and will get reuploaded as a 2.0 version. It might take a while, howewer keep in mind that this stuff is NOT stable
+
 INFO: In case the domain lucazani.com stops working the same website page will be available at lucazanipage.web.app
 This page collect the source code of the website lucazani.com currently hosted using GitHub Pages
 
