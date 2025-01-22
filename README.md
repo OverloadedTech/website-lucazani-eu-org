@@ -28,3 +28,5 @@ Changelog:
 - Added Icons to Button
 - Added License footer and License Statement Page
 - Generic Little Fixing
+
+P.S: This site was first made in September 2022 and since then nothing important has changed, huh time passed, new version incoming...
