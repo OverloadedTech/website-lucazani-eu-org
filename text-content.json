@@ -1,0 +1,164 @@
+{
+  "index.html": {
+    "section1": {
+      "title": "OverloadedTech",
+      "subtitle": ""
+    },
+    "section2": {
+      "title": "Luca Zani's Portfolio",
+      "subtitle": ""
+    },
+    "section3": {
+      "title": "Software Developer, Web Developer and Game Developer",
+      "subtitle": "Main Language JavaScript and Others\nWebsite Online Since 1 August 2021"
+    },
+    "section4": {
+      "title": "Searching for my project list?",
+      "subtitle": ""
+    },
+    "section5": {
+      "text": "You find down on this page a generic part but if you need a detailed one, visit my /projects page"
+    },
+    "section6": {
+      "button": "Projects"
+    },
+    "section7": {
+      "title": "My Projects",
+      "projects": [
+        {
+          "title": "The first software (2017)",
+          "description": "My very first software that was released in 2017 was called PC Optimizer and consisted of a batch script converted to .EXE that had to optimize PCs through some operations and with a graphical interface principle. I released a first version on a stick with a license verification system that required the insertion of a code. The project was to be shared only with friends and family. I still keep his files to this day"
+        },
+        {
+          "title": "The Beginning (2012-Today)",
+          "description": "I started in 2012 by using a computer. In 2016 i started the first OS editing and technical stuff and in 2019 i started programming and there we are"
+        },
+        {
+          "title": "The 2020 App (January 2020-August 2020)",
+          "description": "In early 2020 I got interested in developing Android apps and with a friend we started building apps. I had done the programming part, and he will top it off with some graphic resources. After developing some simple 2D games, I came up with the idea of ​​creating an Unofficial Personal Area app of an Italian operator, which however does not have it. It was released on April 12, 2020 and quickly reached 20,000 installs in days and 30,000 weeks later. I started monetizing. Unfortunately, in August 2020 the app was removed from Google due to the terms update that did not allow this type of app. Subsequently, I decided to temporarily stop my career as an app developer. In autumn 2020 I didn't work on anything else but I did some experiments on my current technologies"
+        },
+        {
+          "title": "2021 Game Experiments (January 2021-July 2021)",
+          "description": "During 2021 I have to experiment with some technologies related to the development of 2D and 3D games from January to July. Finally, after designing some internal prototypes, I didn't release anything but to release something anyway, I released the Empty Character app on the Google Play Store on the new developer account. During the fall of 2021, I spent most of my time in crypto currencies and related stuff and worked on an online multiplayer gaming platform with the same friend but the project failed. To end at the beginning of 2022 i worked on a simple app for a friend but i don't define it as a project. In June 2022 I also took a school exam and I have been quite busy"
+        },
+        {
+          "title": "The return (September 2022 - Today - Estimated Release March 2024 I Guess )",
+          "description": "After making this 'journey' in the world of programming and tech, I decided to go back to developing apps and in particular games at least for now. In the fall of 2022, I decided to start developing a game prototype that I plan to release in spring 2024 but i still not sure if completely release it because for now (March 2023) this project is still a prototype. More information soon on the blog/channel"
+        }
+      ]
+    },
+    "section8": {
+      "title": "Get the latest updates",
+      "subtitle": ""
+    },
+    "section9": {
+      "title": "Check my blog on Blogspot and join my community",
+      "subtitle": ""
+    },
+    "section10": {
+      "button1": "Blog (Deprecated)",
+      "button2": "Telegram Channel",
+      "button3": "Discord Server"
+    },
+    "section11": {
+      "title": "Nice?",
+      "subtitle": ""
+    },
+    "section12": {
+      "title": "Well I know this site is very simple for many reasons among which I don't need a site full of stunning animations and also I want to make the user experience as stable as possible and therefore I prefer to have a similar style. If you are interested in knowing how the site works behind the scenes with GitHub and GitHub Pages, you can study it and contribute without problems. Thank you",
+      "subtitle": ""
+    },
+    "section13": {
+      "button": "GitHub"
+    },
+    "section14": {
+      "title": "Ok, but the actual projects?",
+      "text": "Oh Yes, the actual projects. So, currently there are no special apps, websites, platforms or tools but somethings is still available at the moment (March 2023). You can find some random tools on my GitHub Profile but, the biggest project i am mantaning is probably Empty Character (A tool with an app and a website)"
+    },
+    "section15": {
+      "button1": "GitHub",
+      "button2": "Empty Character Website"
+    },
+    "section16": {
+      "title": "Who I am?",
+      "subtitle": ""
+    },
+    "section17": {
+      "title": "My name is Luca Zani, I am an Italian programmer and a student born in 2008. I have always been very passionate about programming and also about music. I started using a computer in 2012 using a Computer with Windows 7",
+      "subtitle": ""
+    },
+    "section18": {
+      "title": "Contact me",
+      "subtitle": ""
+    },
+    "section19": {
+      "title": "You can write me to luca.zani@lucazani.com You will ONLY get back OFFICIAL responses ONLY from the luca.zani@lucazani.com email address (no gmail.com domain or other external domains)",
+      "subtitle": ""
+    },
+    "section20": {
+      "title": "Check the server status",
+      "subtitle": ""
+    },
+    "section21": {
+      "title": "Always stay up to date if this or any other page of the domain eventually encounters problems. You can also check if the email server is working",
+      "subtitle": ""
+    },
+    "section22": {
+      "button": "Status Page"
+    },
+    "section23": {
+      "text": "MIT License 2023 Luca Zani - MIT License 2023 Luca Zani - This website's source code is licensed under the terms of the MIT License, which allows you to freely use, copy, modify, merge, and/of publish copies of the software, to learn more visit the license page"
+    },
+    "section24": {
+      "button": "Full License Statement"
+    }
+  },
+  "404.html": {
+    "section1": {
+      "title": "404",
+      "text1": "Sorry, the page you're looking for doesn't exist.",
+      "text2": "Redirecting you back home in <span id=\"countdown\">3</span> seconds..."
+    }
+  },
+  "projects/index.html": {
+    "section1": {
+      "title": "Coming Soon!",
+      "text1": "Thank you for visiting my website. I am currently working hard on some amazing projects that I can't wait to share with you.",
+      "text2": "While you're here, please feel free to check out the rest of my site to get a better feel for what I'm all about. If you want be sure also to take a look at my Twitter and GitHub Profiles"
+    },
+    "section2": {
+      "button": "Visit Home Page"
+    }
+  },
+  "projects/404.html": {
+    "section1": {
+      "title": "404",
+      "text1": "Sorry, the page you're looking for doesn't exist.",
+      "text2": "Redirecting you back home in <span id=\"countdown\">3</span> seconds..."
+    }
+  },
+  "license/index.html": {
+    "section1": {
+      "title": "License",
+      "text1": "This website's source code is licensed under the terms of the MIT License, which allows you to freely use, copy, modify, merge, and/or publish copies of the software.",
+      "text2": "To learn more, visit the full license statement page."
+    },
+    "section2": {
+      "button": "Full License Statement"
+    }
+  },
+  "license/404.html": {
+    "section1": {
+      "title": "404",
+      "text1": "Sorry, the page you're looking for doesn't exist.",
+      "text2": "Redirecting you back home in <span id=\"countdown\">3</span> seconds..."
+    }
+  },
+  "maintenance-deprecated.html": {
+    "section1": {
+      "title": "Upgrading",
+      "text1": "This site is being recreated completely from scratch. It will take some time since I also don't have a lot of time available in this period. I'm sorry for the inconvenience",
+      "text2": "Thanks"
+    }
+  }
+}
